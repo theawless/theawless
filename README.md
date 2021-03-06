@@ -1,10 +1,8 @@
-<!--
-### Hi there, I'm Abhinav 👋
+### Hi there, I'm Abhinav
 
-[![Linkedin Badge](https://img.shields.io/badge/theawless?style=flat-square&logo=Linkedin&logoColor=white&labelColor=0077b5&link=https://www.linkedin.com/in/theawlesss/)](https://www.linkedin.com/in/theawless/)
+I'm currently working at Amazon. I like food, football, and FOSS.  
+In my free time, I am trying to build a WebRTC signalling library: https://github.com/theawless/decent-signal
 
-[![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=theawless&show_icons=true&include_all_commits=true)](https://github.com/theawless)
-
-----------------
-[![GitHub followers](https://img.shields.io/github/followers/theawless?label=Follow&maxAge=3600&style=flat-square&logo=Github&labelColor=000000&color=000000)](https://github.com/theawless?tab=followers)
-![](https://komarev.com/ghpvc/?username=theawless&style=flat-square&color=595959)
+* My blog: https://theawless.github.io
+* My linked in: https://linkedin.com/in/theawless
+* My resume: https://drive.google.com/file/d/1gS2aA2Am1tZGKwFzJwi0pHChIXjDqOwx/view?usp=sharing
